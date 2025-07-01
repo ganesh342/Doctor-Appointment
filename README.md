@@ -11,7 +11,7 @@ This is a full-stack Doctor Appointment application built with:
 
 ## 🔗 Hosted Backend URL
 
-**Base API**: [`https://backend-appointment.onrender.com`](https://backend-appointment-cr8f.onrender.com)
+**Base API**: [`https://backend-appointment-cr8f.onrender.com`]
 
 ---
 
